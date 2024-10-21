@@ -1,5 +1,7 @@
 data/
 
+trained_models/
+
 *.pt
 
 git rm --cached
